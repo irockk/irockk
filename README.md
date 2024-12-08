@@ -2,7 +2,7 @@
 
 I'm an Android Developer with 3+ years of experience, currently working at [SmartFox Labs](https://play.google.com/store/apps/developer?id=SmartFox+Labs&hl=en). I specialize in crafting intuitive and efficient mobile applications using Kotlin and Jetpack Compose.  
 
-🌟 I'm developing seamless and user-friendly Android apps< br />
+🌟 I'm developing seamless and user-friendly Android apps< br/>
 🚀 I'm passionate about learning and implementing modern tools and technologies in mobile development< br />
 🌱 I'm continuously staying updated with the latest Android trends to deliver the best user experience< br />
 
