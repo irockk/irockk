@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hi, I'm Ira! 👋
 
+I'm an Android Developer with 3+ years of experience, currently working at [SmartFox Labs](https://play.google.com/store/apps/developer?id=SmartFox+Labs&hl=en). I specialize in crafting intuitive and efficient mobile applications using Kotlin and Jetpack Compose.  
+
+🌟 I'm developing seamless and user-friendly Android apps
+🚀 I'm passionate about learning and implementing modern tools and technologies in mobile development
+🌱 I'm continuously staying updated with the latest Android trends to deliver the best user experience
+
+When I'm not coding, you'll find me:  
+🏋️‍♀️ Hitting the gym to stay active and energized
+🐕 Training and building meaningful connections with dogs as part of my passion for cynology
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ira-kosenkova-1206b9232/) | [Telegram](https://web.telegram.org/k/#@ir_ock) | [Email](Lrinakos2002@gmail.com) |
+
+Feel free to ask code samples from projects I've been working on. Let's connect if you're interested in collaborating or sharing ideas! 😊
 <!--
 **irockk/irockk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
