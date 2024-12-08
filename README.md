@@ -3,16 +3,16 @@
 I'm an Android Developer with 3+ years of experience, currently working at [SmartFox Labs](https://play.google.com/store/apps/developer?id=SmartFox+Labs&hl=en). I specialize in crafting intuitive and efficient mobile applications using Kotlin and Jetpack Compose.  
 
 🌟 I'm developing seamless and user-friendly Android apps <br />
-🚀 I'm passionate about learning and implementing modern tools and technologies in mobile development < br />
-🌱 I'm continuously staying updated with the latest Android trends to deliver the best user experience < br />
+🚀 I'm passionate about learning and implementing modern tools and technologies in mobile development <br />
+🌱 I'm continuously staying updated with the latest Android trends to deliver the best user experience <br />
 
-< br / >When I'm not coding, you'll find me:  
-< br / >🏋️‍♀️ Hitting the gym to stay active and energized
-< br / >🐕 Training and building meaningful connections with dogs as part of my passion for cynology
+When I'm not coding, you'll find me: <br /> 
+🏋️‍♀️ Hitting the gym to stay active and energized <br />
+🐕 Training and building meaningful connections with dogs as part of my passion for cynology <br />
 
-< br / >📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ira-kosenkova-1206b9232/) | [Telegram](https://web.telegram.org/k/#@ir_ock) | [Email](Lrinakos2002@gmail.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ira-kosenkova-1206b9232/) | [Telegram](https://web.telegram.org/k/#@ir_ock) | [Email](Lrinakos2002@gmail.com) <br />
 
-< br / >Feel free to ask code samples from projects I've been working on. Let's connect if you're interested in collaborating or sharing ideas! 😊
+Feel free to ask code samples from projects I've been working on. Let's connect if you're interested in collaborating or sharing ideas! 😊 <br />
 <!--
 **irockk/irockk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
