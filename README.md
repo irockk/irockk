@@ -10,7 +10,7 @@ I'm an Android Developer with 3+ years of experience, currently working at [Smar
 < br / >🏋️‍♀️ Hitting the gym to stay active and energized
 < br / >🐕 Training and building meaningful connections with dogs as part of my passion for cynology
 
-< br / >📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ira-kosenkova-1206b9232/) | [Telegram](https://web.telegram.org/k/#@ir_ock) | [Email](Lrinakos2002@gmail.com) |
+< br / >📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ira-kosenkova-1206b9232/) | [Telegram](https://web.telegram.org/k/#@ir_ock) | [Email](Lrinakos2002@gmail.com)
 
 < br / >Feel free to ask code samples from projects I've been working on. Let's connect if you're interested in collaborating or sharing ideas! 😊
 <!--
